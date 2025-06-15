@@ -1,7 +1,8 @@
 welcome to
 # RinoX
 
-Script Preview
+## Script Preview
+
 [Preview](https://github.com/CookieScript/Previews/blob/main/preview.mp4)
 
 
@@ -21,7 +22,8 @@ Anti Aim
 
 Visuals:
 Aura
-Bullet tracer```
+Bullet tracer
+```
 
 ```
 Executer Support
