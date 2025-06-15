@@ -5,8 +5,9 @@ welcome to
 
 [Preview](https://github.com/CookieScript/Previews/blob/main/preview.mp4)
 
+## Ui Preview
 
-
+[Preview](https://raw.githubusercontent.com/CookieScript/Previews/refs/heads/main/uiPreview.png)
 
 ```
 Features:
